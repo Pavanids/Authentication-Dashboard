@@ -1,4 +1,3 @@
-// src/components/DashboardComponent.jsx
 import React, { useMemo, useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { performLogout, selectUser } from "../features/authSlice";
