@@ -1,5 +1,3 @@
-/* DashboardComponent.css - supports dark & light themes, transitions, and simple animations */
-
 :root{
   --bg: #0b1220;
   --card: rgba(255,255,255,0.02);
